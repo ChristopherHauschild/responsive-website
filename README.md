@@ -3,9 +3,9 @@
 Site responsivo desenvolvido a partir de material online disponibilizado pelo canal HTML e CSS Pro. A partir do layout disponibilizad pude codar e utilizar os tutoriais para resolução de eventuais dúvidas. Os tutoriais visam o aperfeiçoamento da fluidez dos códigos e das boas práticas de programação, além do domínio do uso de jQuery e interações com CSS.  
 <hr>
 <p align="center">
-  <img width="400px" src="https://github.com/ChristopherHauschild/responsive_website.github.io/blob/master/logoAN.png?raw=true"/>
+  <img width="380px" src="https://github.com/ChristopherHauschild/responsive_website.github.io/blob/master/logoAN.png?raw=true"/>
 </p>
-
+<hr>
 ## Linguagens e tecnologias utilizadas: :computer:
 <ul>
   <li>HTML5</li>
