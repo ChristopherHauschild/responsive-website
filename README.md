@@ -15,7 +15,7 @@ Site responsivo desenvolvido a partir de material online disponibilizado pelo ca
 
 ## Acesso ao site: :rocket:
 
-O acesso ao site pode ser feito através deste <a href="https://christopherhauschild.github.io/responsive_website.github.io/"><a>
+O acesso ao site pode ser feito através deste <a href="https://christopherhauschild.github.io/responsive_website.github.io/">link<a>
 
 ### Maiores informações: :pencil:
 
