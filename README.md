@@ -6,6 +6,7 @@ Site responsivo desenvolvido a partir de material online disponibilizado pelo ca
   <img width="380px" src="https://github.com/ChristopherHauschild/responsive_website.github.io/blob/master/logoAN.png?raw=true"/>
 </p>
 <hr>
+
 ## Linguagens e tecnologias utilizadas: :computer:
 <ul>
   <li>HTML5</li>
